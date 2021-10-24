@@ -1,0 +1,29 @@
+.section {
+    padding: 10px 20px;
+}
+
+.section__paragraph {
+    color: blanchedalmond;
+    background-color: #354174;
+    box-shadow: #4074b5 2px 2px 10px 2px;
+    letter-spacing: 2px;
+    border-radius: 5px;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.section__image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.section__objectivesList {
+    list-style: none
+}
+
+.section__js-showQuotes {
+    display: none;
+}

@@ -1,0 +1,9 @@
+.body {
+    width: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0px;
+    margin-bottom: 20px;
+}

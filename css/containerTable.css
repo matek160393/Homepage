@@ -1,0 +1,43 @@
+.table__caption {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    caption-side: top;
+    text-align: left;
+    font-size: 25px;
+}
+
+.table {
+    width: 100%;
+    background-color: #bbbdc2;
+    border-collapse: collapse;
+}
+
+.table__heading {
+    background-color: #33416c;
+    color: white;
+}
+
+.table__cell {
+    border: 3px;
+    border-style: solid;
+    padding: 20px;
+    border-color: rgb(255 255 255);
+}
+
+.table__row:nth-child(even) {
+    background-color: #eee;
+}
+
+.table__row:hover {
+    background-color: rgb(92, 92, 92);
+    color: rgb(255, 255, 255);
+}
+
+.table__image {
+    max-width: 100px;
+    max-height: 125px;
+}
+
+.table {
+    overflow-x: auto
+}
