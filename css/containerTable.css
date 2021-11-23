@@ -38,6 +38,6 @@
     max-height: 125px;
 }
 
-.table {
-    overflow-x: auto
+.table__container {
+    overflow-x: auto;
 }
