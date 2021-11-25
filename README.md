@@ -1,5 +1,5 @@
 # Mateusz Grincewicz 
-![Mateusz Grincewicz](https://raw.githubusercontent.com/matek160393/Homepage/main/IMAGE/image.png)
+![Mateusz Grincewicz](https://raw.githubusercontent.com/matek160393/Homepage/main/IMAGE/Image.jpg)
 
 ## Demo
 
